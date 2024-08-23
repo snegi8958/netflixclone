@@ -1,0 +1,1 @@
+#This is a netflix clone created using html css and with some media queries to make it responsive.
